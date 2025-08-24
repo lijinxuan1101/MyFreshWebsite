@@ -1,21 +1,22 @@
 baseURL: https://lijinxuan1101.netlify.app/
 languageCode: en-us
-title: My New Hugo Site
+title: Li Jinxuan's Blog
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Stranger"
-    Content: "Welcome to my blog"
+    Title: "Li Jinxuan's Portfolio"
+    Content: "This is a blog about my projects and experiences"
   socialIcons:
     - name: "github"
-      url: "https://github.com"
+      url: "https://github.com/lijinxuan1101"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/jinxuan-li-8451b837a/"
 
 
   mainSections:
-    - posts
+    - projects
+    - internships
 
   showFeatureImage: true
   showLastMod: true
