@@ -2,7 +2,7 @@
 date: '2024-01-01T20:40:23+08:00'
 draft: false
 # deloitte
-title: 'Assurance Data Analysis Intern in ERNST & YOUNG'
+title: 'Intern: Assurance Data Analysis Intern in ERNST & YOUNG'
 # cover:
 #     image: img/wugong.jpg
 #     alt: 'this is a image'

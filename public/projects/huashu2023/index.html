@@ -127,7 +127,7 @@
     <div class="post-description">
       Model Construction Competition
     </div>
-    <div class="post-meta"><span title='2024-02-04 20:40:23 +0800 CST'>February 4, 2024</span>&nbsp;·&nbsp;1 min
+    <div class="post-meta"><span title='2024-02-04 20:40:23 +0800 CST'>February 4, 2024</span>&nbsp;·&nbsp;2 min
 
 </div>
   </header> <div class="toc">
@@ -141,7 +141,19 @@
                     <a href="#a-machine-learning-and-evaluation-framework-for-analyzing-the-impact-of-maternal-health-on-infant-development" aria-label="A Machine Learning and Evaluation Framework for Analyzing the Impact of Maternal Health on Infant Development">A Machine Learning and Evaluation Framework for Analyzing the Impact of Maternal Health on Infant Development</a><ul>
                         
                 <li>
-                    <a href="#summary" aria-label="Summary">Summary</a></li></ul>
+                    <a href="#summary" aria-label="Summary">Summary</a><ul>
+                        
+                <li>
+                    <a href="#problem-1" aria-label="Problem 1">Problem 1</a></li>
+                <li>
+                    <a href="#problem-2" aria-label="Problem 2">Problem 2</a></li>
+                <li>
+                    <a href="#problem-3" aria-label="Problem 3">Problem 3</a></li>
+                <li>
+                    <a href="#problem-4" aria-label="Problem 4">Problem 4</a></li>
+                <li>
+                    <a href="#problem-5" aria-label="Problem 5">Problem 5</a></li></ul>
+                </li></ul>
                 </li>
                 <li>
                     <a href="#view-full-paper" aria-label="View Full Paper">View Full Paper</a>
@@ -153,7 +165,58 @@
 
   <div class="post-content"><h1 id="a-machine-learning-and-evaluation-framework-for-analyzing-the-impact-of-maternal-health-on-infant-development">A Machine Learning and Evaluation Framework for Analyzing the Impact of Maternal Health on Infant Development<a hidden class="anchor" aria-hidden="true" href="#a-machine-learning-and-evaluation-framework-for-analyzing-the-impact-of-maternal-health-on-infant-development">#</a></h1>
 <h2 id="summary">Summary<a hidden class="anchor" aria-hidden="true" href="#summary">#</a></h2>
+<p>This study establishes machine learning models to analyze correlations between <strong>infant behavior characteristics</strong>, <strong>maternal physical and mental health indicators</strong>, and <strong>infant sleep quality</strong>, and proposes treatment strategies.</p>
+<h3 id="problem-1">Problem 1<a hidden class="anchor" aria-hidden="true" href="#problem-1">#</a></h3>
+<ul>
+<li>Preprocessed infant behavior features and maternal health indicators.</li>
+<li>Designed hierarchical statistics for multiple variables: <strong>ANOVA</strong> for continuous variables and <strong>logistic regression</strong> for categorical variables.</li>
+<li>Conducted <strong>correlation analysis</strong> and <strong>multifactor ANOVA</strong>, finding significant relationships:
+<ul>
+<li>Maternal age ↔ infant sleep patterns &amp; behavior features</li>
+<li>Maternal gestation period ↔ infant wake-up frequency</li>
+<li>Maternal HADS score ↔ infant wake-up frequency, total sleep time, behavior features</li>
+<li>Maternal EPDS score ↔ infant wake-up frequency, total sleep time</li>
+</ul>
+</li>
+<li>No significant effects were found for other indicators.</li>
+</ul>
+<h3 id="problem-2">Problem 2<a hidden class="anchor" aria-hidden="true" href="#problem-2">#</a></h3>
+<ul>
+<li>Trained models using <strong>logistic regression, Random Forest, Neural Networks, and XGBoost</strong>.</li>
+<li>Selected <strong>XGBoost</strong> as the best-performing model (<strong>highest accuracy</strong>).</li>
+<li>Optimized model parameters using <strong>loss function minimization</strong> and <strong>cross-validation</strong>.</li>
+<li>Predicted the behavior types for the last 20 infant samples using the trained XGBoost model.</li>
+</ul>
+<h3 id="problem-3">Problem 3<a hidden class="anchor" aria-hidden="true" href="#problem-3">#</a></h3>
+<ul>
+<li>Combined <strong>genetic algorithms</strong> with the XGBoost model from Problem 2 to generate treatment plans.</li>
+<li>Final treatment costs:
+<ul>
+<li>Moderate type: <strong>695 CNY</strong></li>
+<li>Quiet type: <strong>10,448 CNY</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="problem-4">Problem 4<a hidden class="anchor" aria-hidden="true" href="#problem-4">#</a></h3>
+<ul>
+<li>Evaluated infant sleep quality using the <strong>CRITIC method</strong>.</li>
+<li>Established a <strong>comprehensive sleep quality ranking system</strong> using <strong>rank-sum ratio evaluation</strong>, classifying sleep quality as excellent, good, medium, or poor.</li>
+<li>Determined indicator weights with the CRITIC method.</li>
+<li>Trained a <strong>Random Forest model</strong> to associate comprehensive infant sleep quality with maternal health indicators, predicting sleep quality for the last 20 infant samples.</li>
+</ul>
+<h3 id="problem-5">Problem 5<a hidden class="anchor" aria-hidden="true" href="#problem-5">#</a></h3>
+<ul>
+<li>Based on the evaluation and association models from Problem 4, calculated the initial sleep quality of <strong>infant #238</strong>.</li>
+<li>Applied the same approach as Problem 3, updating maternal indicators in the association model to generate a <strong>new treatment plan</strong>:
+<ul>
+<li>Moderate type (sleep quality: excellent), <strong>minimum cost: 8,699 CNY</strong></li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Keywords:</strong> XGBoost, Genetic Algorithm, CRITIC Method, Rank-Sum Ratio Evaluation, Random Forest, Association Model</p>
 <h1 id="view-full-paper">View Full Paper<a hidden class="anchor" aria-hidden="true" href="#view-full-paper">#</a></h1>
+<p><a href="/papers/2024huashucup.pdf">A Machine Learning and Evaluation Framework for Analyzing the Impact of Maternal Health on Infant Development</a></p>
 
 
   </div>

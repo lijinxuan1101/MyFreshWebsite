@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on Li Jinxuan&#39;s Blog</title>
+    <link>http://localhost:1313/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on Li Jinxuan&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Sep 2025 20:40:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: O2O Coupon Usage Prediction</title>
+      <link>http://localhost:1313/projects/olo_prediction/</link>
+      <pubDate>Fri, 05 Sep 2025 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/projects/olo_prediction/</guid>
+      <description>&lt;h1 id=&#34;o2o-coupon-usage-prediction&#34;&gt;O2O Coupon Usage Prediction&lt;/h1&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;In this project, I developed a machine learning model to predict whether customers would redeem coupons on an O2O (Online-to-Offline) platform. By engineering over 30 features from user and merchant behavior and employing a LightGBM classifier, the model provides valuable insights into the key drivers of coupon redemption, enabling more targeted and effective marketing strategies.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-business-challenge&#34;&gt;The Business Challenge&lt;/h3&gt;
+&lt;p&gt;O2O platforms frequently issue coupons to attract customers and drive sales. However, untargeted coupon distribution can be costly and inefficient. The core challenge is to accurately predict which users are most likely to use a given coupon, enabling more effective marketing campaigns and maximizing return on investment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

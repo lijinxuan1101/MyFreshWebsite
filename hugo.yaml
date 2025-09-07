@@ -17,6 +17,7 @@ params:
   mainSections:
     - projects
     - internships
+    - competitions
 
   showFeatureImage: true
   showLastMod: true

@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/2024mcn/</loc>
-    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
+    <loc>http://localhost:1313/tags/ai-agent/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/crawl4ai/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/llm-project/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/crawl4ai_rag/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/machine-learning/</loc>
+    <lastmod>2025-08-01T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/olo_prediction/</loc>
+    <lastmod>2025-08-01T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/xgboost/</loc>
+    <lastmod>2025-08-01T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bond/</loc>
+    <lastmod>2024-07-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/internships/cib/</loc>
+    <lastmod>2024-07-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/internships/</loc>
+    <lastmod>2024-07-05T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/competitions/huashu2023/</loc>
+    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/competitions/mcn2023/</loc>
+    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/competitions/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/data-science/</loc>
@@ -14,28 +59,16 @@
     <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/lstm/</loc>
-    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/regression-analysis/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/internships/ey/</loc>
-    <lastmod>2024-01-01T20:40:23+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/data-analysis/</loc>
     <lastmod>2024-01-01T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/internships/</loc>
+    <loc>http://localhost:1313/internships/ey/</loc>
     <lastmod>2024-01-01T20:40:23+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/internships/deloitte/</loc>

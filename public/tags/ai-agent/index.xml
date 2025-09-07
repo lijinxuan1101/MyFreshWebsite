@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Agent on Li Jinxuan&#39;s Blog</title>
+    <link>http://localhost:1313/tags/ai-agent/</link>
+    <description>Recent content in AI Agent on Li Jinxuan&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Sep 2025 20:40:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: A specialized Wikipedia Research Assistant</title>
+      <link>http://localhost:1313/projects/crawl4ai_rag/</link>
+      <pubDate>Fri, 05 Sep 2025 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/projects/crawl4ai_rag/</guid>
+      <description>&lt;h1 id=&#34;a-specialized-wikipedia-research-assistant&#34;&gt;A specialized Wikipedia Research Assistant&lt;/h1&gt;
+&lt;h2 id=&#34;1-project-overview&#34;&gt;1. Project Overview&lt;/h2&gt;
+&lt;p&gt;This project is an AI-powered, fully automated research system designed to scrape information from unstructured sources like Wikipedia, perform intelligent information extraction and structuring using Large Language Models (LLMs), and provide an interactive query and analysis platform accessible via natural language.&lt;/p&gt;
+&lt;p&gt;The system constitutes an end-to-end data intelligence pipeline, from data acquisition and processing to analysis and visualization, demonstrating how modern AI technology can transform complex web information into actionable knowledge.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

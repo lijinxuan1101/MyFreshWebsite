@@ -2,7 +2,7 @@
 date: '2023-08-31T20:40:23+08:00'
 draft: false
 # deloitte
-title: 'RA IBond Data Analyst Intern in Deloitte'
+title: 'Intern: RA IBond Data Analyst Intern in Deloitte'
 # cover:
 #     image: img/wugong.jpg
 #     alt: 'this is a image'

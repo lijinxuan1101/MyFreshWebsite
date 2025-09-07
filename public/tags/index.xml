@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Li Jinxuan&#39;s Blog</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Feb 2024 20:40:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 20:40:23 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Agent</title>
+      <link>http://localhost:1313/tags/ai-agent/</link>
+      <pubDate>Fri, 05 Sep 2025 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/tags/ai-agent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bond</title>
+      <link>http://localhost:1313/tags/bond/</link>
+      <pubDate>Fri, 05 Sep 2025 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/tags/bond/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crawl4ai</title>
+      <link>http://localhost:1313/tags/crawl4ai/</link>
+      <pubDate>Fri, 05 Sep 2025 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/tags/crawl4ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XGBoost</title>
+      <link>http://localhost:1313/tags/xgboost/</link>
+      <pubDate>Fri, 01 Aug 2025 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/tags/xgboost/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Deep Learning</title>
       <link>http://localhost:1313/tags/deep-learning/</link>
