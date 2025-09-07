@@ -1,5 +1,5 @@
 ---
-date: '2024-02-04T20:40:23+08:00'
+date: '2023-08-31T20:40:23+08:00'
 draft: false
 # deloitte
 title: 'RA IBond Data Analyst Intern in Deloitte'
@@ -8,5 +8,8 @@ title: 'RA IBond Data Analyst Intern in Deloitte'
 #     alt: 'this is a image'
 #     caption: 'This is the caption'
 tags: []
-categories: []
+categories: [Data Analysis]
 ---
+# Introduction
+- **Implemented automated ETL pipelines** using WIND Excel plugin and templates to query and preprocess **80,000+ records daily** for Deloitte IBond Smart Bond and CITIC Construction Investment teams.  
+- **Optimized large-scale data retrieval and analysis pipelines** with **Python + SQL**, improving processing speed and stability; proficient in **WIND (Excel & Python integration)**.  

@@ -2,39 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60758/projects/2024mcn/</loc>
+    <loc>http://localhost:1313/projects/2024mcn/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/categories/data-science/</loc>
+    <loc>http://localhost:1313/categories/data-science/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/internships/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/</loc>
+    <loc>http://localhost:1313/tags/lstm/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/tags/lstm/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/projects/</loc>
+    <loc>http://localhost:1313/tags/regression-analysis/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/internships/deloitte/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-04T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/tags/regression-analysis/</loc>
-    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
+    <loc>http://localhost:1313/internships/ey/</loc>
+    <lastmod>2024-01-01T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/tags/</loc>
-    <lastmod>2024-02-04T20:40:23+08:00</lastmod>
+    <loc>http://localhost:1313/categories/data-analysis/</loc>
+    <lastmod>2024-01-01T20:40:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:60758/archives/</loc>
+    <loc>http://localhost:1313/internships/</loc>
+    <lastmod>2024-01-01T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/internships/deloitte/</loc>
+    <lastmod>2023-08-31T20:40:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>

@@ -2,28 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Li Jinxuan&#39;s Blog</title>
-    <link>http://localhost:60758/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Li Jinxuan&#39;s Blog</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2024 20:40:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:60758/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Analysis of Sustainable Strategies for Property Insurance</title>
-      <link>http://localhost:60758/projects/2024mcn/</link>
+      <title>2023 Huashu Cup Model Construction Competition</title>
+      <link>http://localhost:1313/projects/huashu2023/</link>
       <pubDate>Sun, 04 Feb 2024 20:40:23 +0800</pubDate>
-      <guid>http://localhost:60758/projects/2024mcn/</guid>
+      <guid>http://localhost:1313/projects/huashu2023/</guid>
+      <description>Model Construction Competition</description>
+    </item>
+    <item>
+      <title>2024 Mathematical Contest in Modeling</title>
+      <link>http://localhost:1313/projects/mcn2023/</link>
+      <pubDate>Sun, 04 Feb 2024 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/projects/mcn2023/</guid>
+      <description>Model Construction Competition</description>
+    </item>
+    <item>
+      <title>Assurance Data Analysis Intern in ERNST &amp; YOUNG</title>
+      <link>http://localhost:1313/internships/ey/</link>
+      <pubDate>Mon, 01 Jan 2024 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/internships/ey/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;In this paper, I developed an LSTM model with an accuracy of 85% to predict future natural disasters using natural disaster data in Florida and California of the past 30 years. Applied neural network, linear regression, and deep learning models to assess the relationship between natural disasters and property damage.&lt;/p&gt;
-&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
-&lt;p&gt;In recent years, homeowners and insurance companies have faced significant crises, necessitating the development of comprehensive solutions to meet the needs of all stakeholders involved in the insurance industry. This paper presents an innovative approach to property insurance by introducing an insurance company&amp;rsquo;s property allocation model based on &lt;strong&gt;deep learning&lt;/strong&gt; and &lt;strong&gt;LSTM&lt;/strong&gt; and a market investment model utilizing &lt;strong&gt;regression analysis&lt;/strong&gt;, as well as a community conservation building model employing &lt;strong&gt;grey correlation analysis&lt;/strong&gt;. These models provide valuable insights and correlation analyses for the property-casualty insurance sector, promoting a more sustainable industry.&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Managed and processed financial data&lt;/strong&gt; exported from &lt;strong&gt;Kingdee&lt;/strong&gt; and &lt;strong&gt;UFIDA&lt;/strong&gt; systems, handling &lt;strong&gt;10,000+ data fields daily&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated real estate data auditing&lt;/strong&gt; with &lt;strong&gt;Openpyxl&lt;/strong&gt; and &lt;strong&gt;Pandas&lt;/strong&gt;, achieving faster queries, reduced latency, and streamlined procedures.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>RA IBond Data Analyst Intern in Deloitte</title>
-      <link>http://localhost:60758/internships/deloitte/</link>
-      <pubDate>Sun, 04 Feb 2024 20:40:23 +0800</pubDate>
-      <guid>http://localhost:60758/internships/deloitte/</guid>
-      <description></description>
+      <link>http://localhost:1313/internships/deloitte/</link>
+      <pubDate>Thu, 31 Aug 2023 20:40:23 +0800</pubDate>
+      <guid>http://localhost:1313/internships/deloitte/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Implemented automated ETL pipelines&lt;/strong&gt; using WIND Excel plugin and templates to query and preprocess &lt;strong&gt;80,000+ records daily&lt;/strong&gt; for Deloitte IBond Smart Bond and CITIC Construction Investment teams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimized large-scale data retrieval and analysis pipelines&lt;/strong&gt; with &lt;strong&gt;Python + SQL&lt;/strong&gt;, improving processing speed and stability; proficient in &lt;strong&gt;WIND (Excel &amp;amp; Python integration)&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

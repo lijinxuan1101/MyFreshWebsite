@@ -27,11 +27,13 @@ params:
 
   ShowBreadCrumbs: true
 
-  ShowReadingTime: true
-
   ShowShareButtons: true
 
   ShowPostNavLinks: true
+  # Show Table of Contents (Toc) on blog post
+  ShowToc: true
+  # Code Copy Button
+  ShowCodeCopyButtons: true
 
 menu:
   main:
